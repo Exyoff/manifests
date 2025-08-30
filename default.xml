@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
-  <default revision="refs/tags/android-14.0.0_r27"
+  <default revision="android-14.0.0_r27"
            remote="aosp"
            sync-j="4" />
 
